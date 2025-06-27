@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.ipynb_checkpoints/ # If you use Jupyter notebooks
+*.csv # If you generate temporary CSVs that you don't want to track
+*.db # For database files if you use SQLite
